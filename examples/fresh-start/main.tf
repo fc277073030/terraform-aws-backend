@@ -1,6 +1,6 @@
 provider "aws" {
   version = "~> 1.0"
-  region  = "us-east-1"
+  region  = "cn-northwest-1"
 }
 
 variable "backend_bucket" {}

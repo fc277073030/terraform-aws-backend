@@ -1,5 +1,5 @@
-bucket = "tf-backend-aws-example"
-key    = "states/example"
-region = "us-east-1"
+bucket = "tf-backend-aws-prod"
+key    = "states/prod"
+region = "cn-northwest-1"
 dynamodb_table = "terraform-lock"
 encrypt = true
